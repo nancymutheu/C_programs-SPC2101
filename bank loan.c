@@ -1,7 +1,7 @@
 /*
-NAME:
-REG NO:
-DESCRIPTION:
+NAME:Nancy Mutheu
+REG NO:PA106/G/29212/25
+DESCRIPTION:program showing legibility if applying for a loan
 */
 
 #include <stdio.h>
@@ -26,4 +26,5 @@ int main()
 	}
 	
 	return 0;
+
 }
